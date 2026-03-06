@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- cnrad -->
-![Discord](https://lanyard.cnrad.dev/api/1109821913498407042)
 
 ## My Blog
 https://blog.tomchicken.icu
+
+## What am I doing now?
+<!-- cnrad -->
+![Discord](https://lanyard.cnrad.dev/api/1109821913498407042)
