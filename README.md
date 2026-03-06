@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- cnrad -->
+![Discord](https://lanyard.cnrad.dev/api/705665813994012695)
+
 ## My Blog
 https://blog.tomchicken.icu
