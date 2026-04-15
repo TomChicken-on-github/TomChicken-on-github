@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++
 - ⚡ Hobby: ACGN
 
+## Contributions
+![TomChicken-on-github](game.gif)
+
 ## My Blog
 https://blog.tomchicken.icu
 
