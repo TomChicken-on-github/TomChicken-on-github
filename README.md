@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 https://blog.tomchicken.icu
 
 ## What am I doing now?
+> This card displays my Discord status by fetching data from the Lanyard API.
 <!-- cnrad -->
 ![Discord](https://lanyard.cnrad.dev/api/1109821913498407042)
