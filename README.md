@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 𝒞𝓲𝒶𝓵𝓁𝓸～ (∠・ω< )⌒★~
 
 <!--
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently a student
+- 🌱 I’m currently learning C++
+- ⚡ Hobby: ACGN
 
 ## My Blog
 https://blog.tomchicken.icu
